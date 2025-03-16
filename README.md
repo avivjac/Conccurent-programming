@@ -3,7 +3,7 @@ SPL2 - Parallel & Event-Driven System Project Overview This project implements a
 
 Technologies Used Java 8+ Multithreading & Synchronization STOMP Protocol JUnit 5 for testing Maven/Gradle for dependency management
 
-Setup & Installation Prerequisites: Install Java 8+ Install Maven or Gradle (if used) Clone the repository: bash Copy git clone https://github.com/your-username/SPL2.git cd SPL2 Build & Run If using Maven, build the project: bash Copy mvn clean install mvn exec:java -Dexec.mainClass="bgu.spl.mics.Main" If using Gradle, run: bash Copy gradle build gradle run
+Setup & Installation Prerequisites: Install Java 8+ Install Maven or Gradle (if used) Clone the repository: bash Copy git clone https://github.com/avivjac/SPL2.git cd SPL2 Build & Run If using Maven, build the project: bash Copy mvn clean install mvn exec:java -Dexec.mainClass="bgu.spl.mics.Main" If using Gradle, run: bash Copy gradle build gradle run
 
 How It Works Microservices Communication:
 
